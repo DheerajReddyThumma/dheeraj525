@@ -1,8 +1,7 @@
-class Number
+class HelloWorld
 {
   public static void main(String a[])
 {
-  System.out.println("welcome");
+  System.out.println("HelloWorld");
 }
 } 
-
